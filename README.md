@@ -1,7 +1,7 @@
 # NetflixCE - Reupload
 
 - Previous repos was taken down, here is an archive incase it gets taken down again
-  https://web.archive.org/web/20231115220502/https://github.com/IShade4ReaI/NetflixCE
+  -REMOVED-
 
 
 - the file was also uploaded in this Discord server, any new updates will be announced in here
